@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://omsachinfarakate.io)  
 <h1 align="center">Hi their 👋, I'm Om Sachin Farakate</h1>  
-<h3 align="center">A passionate JAVA developer from India</h3>  
+<h3 align="center">A passionate MERN developer from India</h3>  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />    
 
@@ -11,7 +11,7 @@
 </p>  
 
 - "Just a computer science student on a journey to solve problems with code. Let's build something amazing together! 💻✨ #CodeNewbies*  
-- 💬 Ask me about *Java, OOP, Data Structures*  
+- 💬 Ask me about *JavaScript, OOP, Data Structures,MongoDB SQL,NODE,NESTJS*  
 - 📫 How to reach me *omfarkate7515@gmail.com*   
 
 <h3 align="left">Connect with me:</h3>  
