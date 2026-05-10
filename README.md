@@ -1,105 +1,138 @@
-<div align="center">
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/omfarakate)
 
-# 👋 Hi, I'm Om Sachin Farakate
+<h1 align="center">Hi there 👋, I'm Om Sachin Farakate</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
 
-### A Passionate MERN Stack Developer from India 🇮🇳
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;JavaScript+%7C+Node.js+%7C+React;Building+amazing+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=omfarakate&label=Profile%20views&color=0e75b6&style=flat" alt="omfarakate" />
+</p>
 
----
+<p align="left">
+  <a href="https://twitter.com/omsachinfarakate" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/omsachinfarakate?logo=twitter&style=for-the-badge" alt="omsachinfarakate" />
+  </a>
+</p>
 
-## 🚀 About Me
+<br/>
 
-> *"Just a computer science student on a journey to solve problems with code. Let's build something amazing together! 💻✨"*
+- 💡 *"Just a computer science student on a journey to solve problems with code. Let's build something amazing together! 💻✨ #CodeNewbies"*
 
-- 🎓 Computer Science Student from **Jaysingpur, India**
+- 🌱 I'm currently learning **React, NestJS & System Design**
+
 - 💬 Ask me about **JavaScript, OOP, Data Structures, MongoDB, SQL, Node.js, NestJS**
-- 📫 Reach me at **omfarkate7515@gmail.com**
-- ⚡ Fun fact: I believe in **"Be brave, live differently"**
+
+- 📫 How to reach me: **omfarkate7515@gmail.com**
+
+- ⚡ Fun fact: **"Be brave, live differently"**
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="left">🌐 Connect with me:</h3>
 
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/omfarkate7515)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omsachinfarakate)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/omfarkate7515)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omsachinfarakate)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
-
-</div>
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+<p align="left">
+  <a href="https://x.com/omfarkate7515" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/omsachinfarakate" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/omfarkate7515" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/omsachinfarakate" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omfarakate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=e6edf3" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omfarakate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e6edf3" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omfarakate&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=f97316&currStreakLabel=00e5ff" alt="GitHub Streak" />
-
-</div>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omfarakate&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omfarakate&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omfarakate&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-</div>
-
----
-
-## 📌 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| [🍕 Pizza Store With Admin](https://github.com/omfarakate/pizzastoreWith_admin) | Full-stack pizza ordering app with admin panel to manage menus, categories & prices | MERN Stack |
-| [📊 Student Performance Tracker](https://github.com/omfarakate/Student-Performace-Tracker) | Predicts student academic performance using ML models & React frontend | React, Node.js, ML |
-| [📉 Customer Churn Analysis](https://github.com/omfarakate/Customer-Churn-Analysis) | Analyzes & predicts customer churn patterns using data science techniques | CSS, Data Science |
-| [📚 JS Production Playbook](https://github.com/omfarakate/javascript-production-playbook) | Industry-focused JavaScript patterns & production-level code examples | JavaScript |
-| [🎮 Tic Tac Toe](https://github.com/omfarakate/tic-tac-toe) | Classic Tic-Tac-Toe with win detection & clean game logic | JavaScript |
-| [✂️ Rock Paper Scissors](https://github.com/omfarakate/RockPaperScissors) | Play Rock Paper Scissors against the computer with smooth UI | JavaScript |
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omfarakate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=omfarakate&label=Profile%20Views&color=00e5ff&style=for-the-badge)
-
-### 💡 *"Code is not just syntax — it's a solution to someone's problem."*
-
-</div>
+<p align="center">
+  <i>💡 "Code is not just syntax — it's a solution to someone's problem."</i>
+</p>
