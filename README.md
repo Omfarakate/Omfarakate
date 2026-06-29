@@ -54,13 +54,14 @@
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omfarakate&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -70,7 +71,7 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omfarakate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
+</p>
 
 ---
 
